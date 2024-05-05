@@ -7,10 +7,16 @@
 - learning. Life is a lifelong learning process, on some corny shit
 
 ## Books I enjoy
-
+- Huck Finn: certified dinger
+- Candide: p chill
+- Slaughterhouse 5: yo
+- The Good Earth
+- Dune
 ### Favorite Textbooks
 - [Digital Design & Computer Architecture: Harris ^ 2](https://www.amazon.com/Digital-Design-Computer-Architecture-Harris/dp/0123944244)
 - [Elements of Information Theory: Cover & Thomas](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf)
+- [Introduction to Topology: Bert Mendleson](https://archive.org/details/introduction-to-topology-by-mendelson-bert)
+  - fun and lighthearted introduction
 
 ## Articles. This is the world we live in
 
