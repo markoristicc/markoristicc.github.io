@@ -16,7 +16,7 @@
 
 [Troll Farm, Misinformation and how it divides us](https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-report-us-2020-election/)
 
-###Shifting of Overton Window/Zeitgeist/Media
+### Shifting of Overton Window/Zeitgeist/Media
 
 [Paper analyzing Tiktok's role in radicalization and far-right ideology normalization](https://www.tandfonline.com/doi/full/10.1080/1472586X.2023.2274890#:~:text=Different%20from%20right%2Dwing%20parties,its%20short%20'snackable'%20video%20format)
 
